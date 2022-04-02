@@ -1,0 +1,31 @@
+header {
+    background-color: #cccccc;
+    height: 150px;
+    text-align: center;
+  }
+
+  .dropdown-menu  a{
+    color: black !important;
+    text-decoration: none;
+    padding-left: .5rem;
+    padding-right: .5rem;
+  }
+  
+  .dropdown-menu a:hover{
+    color: royalblue;
+    background-color: rgb(163, 163, 163);
+    text-decoration: none;
+  }
+  .navbar-nav a{
+    text-decoration: none;
+    color: rgba(255,255,255, 0.5);
+    padding: .5rem;
+
+  }
+  .navbar-nav a:hover{
+    text-decoration: none;
+    color: rgba(255,255,255, 0.9);
+    padding: .5rem;
+
+  }
+
